@@ -29,7 +29,7 @@ Um jogo simples e divertido onde você deve adivinhar um número aleatório entr
 
 ## 📸 Prévia do Jogo
 
-<img src="![Jogo do Número Secreto](image-2.png)
+<img src="![Jogo do Número Secreto](https://github.com/Danimmota/jogo-numero-secreto/blob/main/image-2.png)
 " alt="Imagem do Jogo do Número Secreto" width="500">
 
 ---
