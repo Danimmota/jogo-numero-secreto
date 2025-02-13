@@ -7,6 +7,7 @@ function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
    
+    
     //só foi possível utilizar devido a linha 07 do HTML - documentação ResponsiveVoice Text To Speach.
     //<script src="https://code.responsivevoice.org/responsivevoice.js"></script> 
     // responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate:1.2});
