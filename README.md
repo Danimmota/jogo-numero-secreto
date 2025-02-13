@@ -29,7 +29,7 @@ Um jogo simples e divertido onde você deve adivinhar um número aleatório entr
 
 ## 📸 Prévia do Jogo
 
-<img src="![image](https://github.com/user-attachments/assets/14266313-88ce-47bd-8d49-4bd9a3083b93)
+<img src="![Jogo do Número Secreto](image-2.png)
 " alt="Imagem do Jogo do Número Secreto" width="500">
 
 ---
@@ -38,7 +38,7 @@ Um jogo simples e divertido onde você deve adivinhar um número aleatório entr
 
 1. **Baixe ou clone este repositório**:  
    ```sh
-   git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+   git clone https://github.com/Danimmota/jogo-numero-secreto.git
 Abra o arquivo index.html no navegador.
 
 Divirta-se jogando! 🚀
